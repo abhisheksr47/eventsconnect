@@ -33,6 +33,8 @@ The project also supports future expansion to facilitate collaboration with exte
    - Manages relational database operations for reliable data storage and retrieval.
 
 ---
+
+### Homepage
 ![Home Page](images/Screenshots/2.png)
 
 ### Notification
