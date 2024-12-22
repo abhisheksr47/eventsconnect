@@ -33,6 +33,20 @@ The project also supports future expansion to facilitate collaboration with exte
    - Manages relational database operations for reliable data storage and retrieval.
 
 ---
+![Home Page](images/Screenshots/2.png)
+
+### Notification
+![Notification](images/Screenshots/2.png)
+
+### Sign In
+![Sign In](images/Screenshots/3.png)
+
+### Sign Up
+![Sign Up](images/Screenshots/4.png)
+
+### Live Search
+![Live Search](images/Screenshots/5.png)
+
 
 ## Project Scope
 - Development of a web-based platform for college event management.
