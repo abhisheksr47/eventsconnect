@@ -38,7 +38,7 @@ The project also supports future expansion to facilitate collaboration with exte
 ![Home Page](images/Screenshots/2.png)
 
 ### Notification
-![Notification](images/Screenshots/2.png)
+![Notification](images/Screenshots/1.png)
 
 ### Sign In
 ![Sign In](images/Screenshots/3.png)
